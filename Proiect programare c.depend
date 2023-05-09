@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683198714 source:c:\users\adria\desktop\exercitii c\proiect programare c\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
